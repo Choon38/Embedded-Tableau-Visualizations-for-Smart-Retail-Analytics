@@ -10,6 +10,8 @@ This project focuses on creating and optimizing Tableau dashboards to provide ac
 - **Data Trends Analysis:** Insights into sales trends, regional performance, and monthly statistics.
 - **User-Friendly Interface:** Easy-to-navigate web interface displaying visualizations and analytics.
 - **Real-Time Data:** Integration with real-time data sources for up-to-date analytics.
+- 
+![tablue](https://github.com/user-attachments/assets/98af13b2-e418-48c1-afff-69c4581687b7)
 
 
 
